@@ -1,0 +1,15 @@
+  .girl {
+    margin-left: 85%;
+    margin-top: -5%;
+  }
+
+  .boy {
+    margin-left: 70%;
+    margin-top: -16%;
+  }
+
+  .material-icons.people {
+    position: relative;
+    top: 5px;
+    font-size: 36px;
+  }

@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"VB",
+				"VBA_EXECUTION_PATH"
+			],
+			[
+				"VBA",
+				"VBA_FILE_NAME"
+			],
+			[
+				"VBA_",
+				"VBA_EXECUTION_PATH"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"執行股",
+				"執行股櫃檯"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"No",
+				"NoTodayFiles"
+			],
+			[
+				"e",
+				"Exception"
+			],
+			[
+				"DIR",
+				"DIR_ALL_FILES"
+			],
+			[
+				"txtfile",
+				"txtfilename"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rig",
+				"margin-right"
+			],
+			[
+				"m",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Stao-B02/Desktop/每日電扣發文前比對/pyscript.py",
+		"/C/Users/Stao-B02/Desktop/slytpki.github.io/kids/js/bootstrap.min.js",
+		"/C/Users/Stao-B02/Desktop/slytpki.github.io/kids/js/bootstrap.js",
+		"/C/Users/Stao-B02/Desktop/slytpki.github.io/kids/README.md",
+		"/C/Users/Stao-B02/Desktop/扣押收取優化程式_台中_測試/README.md",
+		"/C/Users/Stao-B02/Desktop/child_web/bootstrap_page/README.md",
+		"/C/Users/Stao-B02/Desktop/每日電扣發文前比對/README.md",
+		"/C/Users/Stao-B02/Downloads/CircularNavigation/CircularNavigation/index2.html",
+		"/C/Users/Stao-B02/Desktop/child_web/bootstrap_page/index.html",
+		"/C/Users/Stao-B02/Desktop/扣押收取優化程式_台中_測試/tpkq3213.asp",
+		"/C/Users/Stao-B02/Downloads/CircularNavigation/CircularNavigation/README.md",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/generic.html",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/elements.html",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/index.html",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/assets/css/main.css",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/assets/sass/main.scss",
+		"/C/Users/Stao-B02/Desktop/child_web/html5up-stellar/assets/sass/components/_image.scss",
+		"/C/Users/Stao-B02/Desktop/北市國金融餘額查詢/test.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/new_bank_no_not_present_in_our_table.csv",
+		"/C/Users/Stao-B02/Desktop/北市國金融餘額查詢/parsed_result.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/bank_no_all_3.csv",
+		"/C/Users/Stao-B02/Desktop/北市國金融餘額查詢/new_bank_no.csv",
+		"/C/Users/Stao-B02/Downloads/temp.txt",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/parsed_result.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/temp.diff",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/test.py",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/parsed_result - 複製.csv",
+		"/C/Users/Stao-B02/Desktop/北市國金融餘額查詢/附件1.csv",
+		"/C/Users/Stao-B02/Desktop/北市國金融餘額查詢/附件1.xls",
+		"/C/Users/Stao-B02/Desktop/新增資料夾 (2)/N04_20170424_140338_846682_progress_2200CD6_______2_20170501105901/temp.txt",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/bank_merged.txt",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/bank_no_1_3.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/bank_no_2_3.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/bank_no.csv",
+		"/C/Users/Stao-B02/Links/Desktop.lnk",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/result.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/new_bank_no.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/branch_no - 複製.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/branch_no.csv",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/BANK_1060504.txt",
+		"/C/Users/Stao-B02/Desktop/BANK_1060504.txt",
+		"/C/Users/Stao-B02/Desktop/crypto_.py",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/test.txt",
+		"/C/Users/Stao-B02/Desktop/簡訊傳繳結果 統計/中華電信/test.py",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/SLY001--士林.txt",
+		"/C/Users/Stao-B02/Desktop/簡訊傳繳結果 統計/中華電信/setup.py",
+		"/C/Users/Stao-B02/Desktop/北區國金融餘額查詢1060417/SLY001--士林/temp.txt",
+		"/C/Users/Stao-B02/Desktop/grep.bat",
+		"/C/Users/Stao-B02/Desktop/test/pyscript.py",
+		"/C/Users/Stao-B02/Desktop/Portable Python 2.7.6.1/App/Lib/site-packages/easy_install.py",
+		"/C/Users/Stao-B02/Desktop/Portable Python 2.7.6.1/App/Lib/site-packages/setuptools/command/easy_install.py",
+		"/C/Users/Stao-B02/Desktop/Portable Python 2.7.6.1/get_pip.py",
+		"/C/Users/Stao-B02/Desktop/士執行字第10601000530號.xml",
+		"/C/Users/Stao-B02/Desktop/班長委外/ADEF.txt",
+		"/C/Users/Stao-B02/Desktop/亞太電信/士執行字第10601000530號.xml",
+		"/C/Users/Stao-B02/Desktop/test/auto.bat",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1018revised/questions.html",
+		"/C/Users/Stao-B02/Desktop/grep.txt",
+		"/C/Users/Stao-B02/Desktop/slyex/css/slyex.css",
+		"/C/Users/Stao-B02/Desktop/slyex/js/slyex.js",
+		"/C/Users/Stao-B02/Desktop/slyex/index.html",
+		"/C/Users/Stao-B02/Downloads/17147txt/飄渺之旅.txt",
+		"/C/Users/Stao-B02/Downloads/17147txt/樍眳藏.txt",
+		"/C/Users/Stao-B02/Downloads/PortableGit/post-install.bat",
+		"/C/Users/Stao-B02/Desktop/slyyex/js/slyyex.js",
+		"/C/Users/Stao-B02/Desktop/slyyex/index.html",
+		"/C/Users/Stao-B02/Desktop/slyyex/css/slyyex.css",
+		"/C/Users/Stao-B02/Desktop/slyyex/css/animate.css",
+		"/C/Users/Stao-B02/Desktop/slyyex/guanshou.html",
+		"/C/Users/Stao-B02/Desktop/web/js/slyyex.js",
+		"/C/Users/Stao-B02/Desktop/web/index.html",
+		"/C/Users/Stao-B02/Desktop/web/css/slyyex.css",
+		"/C/Users/Stao-B02/Desktop/web/css/bootstrap.css",
+		"/C/Users/Stao-B02/Desktop/web/js/bootstrap.js",
+		"/C/Users/Stao-B02/Desktop/web/css/bootstrap.min.css",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1018revised/floorplan.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1018revised/js/image_fade.js",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1018revised/movie.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1005revised/questions.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1005revised/movie.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_1005revised/floorplan.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_0512revised/floorplan.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_0512revised/movie.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_0512revised/questions.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_0512revised/index.html",
+		"/C/Users/Stao-B02/Desktop/2016DEMO機_0512revised/css/style.css",
+		"/C/Users/Stao-B02/Desktop/test/pscript.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DIR_FINISHED_XLS",
+			"():\n",
+			"()\n",
+			"^From:Vitalik Buterin",
+			"situ_id",
+			"knowledge",
+			"whatwedo",
+			"member",
+			"intro",
+			"image",
+			"4u",
+			"image",
+			"pic05",
+			"background",
+			"-->\n",
+			"width",
+			"style",
+			"Stellar",
+			"8050551",
+			"^\\d+,\\s*$",
+			"8050551",
+			"0810153",
+			"8050551",
+			"0810175",
+			"0054519",
+			"0001006",
+			"幣別",
+			"1060104",
+			"pat",
+			"re\\.",
+			"中山堂",
+			"4\\u865f\\u51fa\\u53e3",
+			"53e3",
+			"\\u6377\\u904b\\u4e2d\\u5c71\\u7ad9(4\\u865f\\u51fa\\u53e3)",
+			"2017.*app\\[clock\\.1\\]:",
+			"2017.*app[clock\\.1]:",
+			".*,.*,B",
+			"0780043,星展(台灣)銀行敦北分行,0780043",
+			"null",
+			"none",
+			"None",
+			"none",
+			"NULL",
+			"null",
+			"0041481",
+			"9030110",
+			"6060307",
+			"8030021",
+			"6BI0000",
+			"星展（台灣）商業銀行南京東路分行",
+			"0780032",
+			"星展（台灣）商業銀行南京東路分行",
+			"員山分部",
+			"中和農會.*員山分部",
+			"中和區農會員山分部",
+			"隨軍局",
+			".*,.*,.*,P",
+			"none",
+			".*,.*,.*,",
+			"台北富邦商業銀行台北１０１,分行",
+			"中央銀行國庫局",
+			"$",
+			".*$",
+			"$",
+			"郵局",
+			"-",
+			"^.*,.*,.*,.*,\\d*[^\\d\\n,]+\\d*,.*,.*$",
+			"^.*,.*,.*,.*,\\d*[^\\d,]+\\d*,.*,.*$",
+			"^.*,.*,.*,.*,\\d*[^\\d]+\\d*,.*,.*$",
+			".*,.*,.*,.*,\\d*[^\\d\\n,]+\\d*,.*,.*$",
+			".*,.*,.*,.*,\\d*[^\\d\\n]+\\d*,",
+			".*,.*,.*,.*,\\d*[^\\d]+\\d*,",
+			"9TW,1,",
+			"9TW,1",
+			"102970119830",
+			"0131106",
+			"0810153",
+			"^\\d+,3",
+			"^\\d+,1",
+			"三重.*郵局",
+			"板橋溪崑郵局",
+			"土城學府郵局",
+			"郵局",
+			"00311",
+			"支局",
+			"30支局",
+			"３０",
+			"３０支局",
+			"板橋３０支局",
+			"基隆.*儲蓄",
+			"基隆第一信用合作社",
+			"三重郵局",
+			"儲蓄部",
+			"三重郵局",
+			"五十五",
+			"隨軍局",
+			"新北市政府郵局",
+			"隨軍局",
+			"新北市郵局",
+			"新北市政府",
+			"新北市政府郵局",
+			"新竹第三信用合作社",
+			"新興郵局",
+			"基隆第一信用合作社",
+			"雲林區漁會",
+			"漁會",
+			"桃園市桃園信用合作社",
+			"(\\d+)",
+			"\\s+$",
+			"\\*$",
+			"^\\d+",
+			"三重郵局",
+			"大湖郵局",
+			"大.*郵局",
+			"大埔郵局",
+			"大.*郵局",
+			"台新.*淡水簡易型分行",
+			"簡易型分行",
+			"台中",
+			"臺中.*內湖",
+			"中國信託.*民權",
+			"淡水第一",
+			"新市",
+			"新市分社",
+			".*忠孝分行",
+			"玉山.*忠孝分行",
+			"忠孝分行",
+			"瑞興"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			",NULL",
+			"\\1,",
+			"(\\d+),",
+			"",
+			"$",
+			"today_files",
+			"txt_filename",
+			".jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

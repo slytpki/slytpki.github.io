@@ -1,0 +1,33 @@
+.img1 {
+    position: relative;
+    margin-top: -30%;
+    margin-left: 55%;
+    opacity: 0.3;
+    z-index: 1;
+    width: 500px;
+    height: auto;
+  }
+
+  .img2 {
+    position: relative;
+    margin-top: -6%;
+    opacity: 0.3;
+    z-index: 1;
+    width: 450px;
+    height: auto;
+  }
+
+  .img3 {
+    position: relative;
+    margin-left: 60%;
+    margin-top: -23%;
+    z-index: 1;
+    width: 300px;
+    height: auto;
+  }
+
+  .material-icons.people {
+    position: relative;
+    top: 5px;
+    font-size: 36px;
+  }
