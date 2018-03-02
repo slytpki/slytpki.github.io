@@ -147,13 +147,13 @@
   }
   
   @-webkit-keyframes cloud {
-    from {margin-top: -150px;}
-    to {margin-top: -100px;}
+    from {margin-top: -50px;}
+    to {margin-top: 0;}
   }
 
   @keyframes cloud {
-  	from {margin-top: -150px;}
-    to {margin-top: -100px;}
+  	from {margin-top: -50px;}
+    to {margin-top: 0;}
   }
 
   footer {
