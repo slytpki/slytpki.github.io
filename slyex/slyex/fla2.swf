@@ -1,0 +1,10 @@
+<div style="margin-top: 0px;">
+<center>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="775" height="500" align="middle">
+<param name="allowScriptAccess" value="All" />
+<param name="allowFullScreen" value="false" />
+<param name="movie" value="https://github.com/slytpki/slytpki.github.io/blob/master/slyex/fla2.swf" />
+<param name="quality" value="high" /><embed allowscriptaccess="never"  src="/site/moj/public/MMO/sly/fla2.swf" width="775" height="500" name="FlashVars" FlashVars="ln=ch" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+</object>
+</center>
+</div>
